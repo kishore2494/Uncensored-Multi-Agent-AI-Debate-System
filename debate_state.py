@@ -1,3 +1,5 @@
+# debate_state.py
+
 class DebateState:
     """Holds the state of the debate, including the topic and history."""
     def __init__(self, topic: str):
